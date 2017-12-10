@@ -1,0 +1,15 @@
+No Decomposition:
+HyperPipes:	0.792553191489
+GaussianNB:	0.941489361702
+
+k=2
+HyperPipes:	0.872340425532
+GaussianNB:	0.936170212766
+
+k=3
+HyperPipes:	0.755319148936
+GaussianNB:	0.845744680851
+
+k=4
+HyperPipes:	0.739361702128
+GaussianNB:	0.86170212766
