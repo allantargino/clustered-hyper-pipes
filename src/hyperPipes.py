@@ -1,6 +1,5 @@
 import numpy as np
 
-
 class HyperPipe:
     
     def __init__(self):
