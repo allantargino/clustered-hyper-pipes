@@ -21,9 +21,9 @@ X_train, X_test, y_train, y_test = train_test_split(X_decomposed, y_decomposed, 
 hp = HyperPipes()
 y_predicted = hp.fit(X_train, y_train).predict(X_test)
 accuracy = accuracy_score(y_test, y_predicted)
-print 'HyperPipes:\t' + str(accuracy)
+print('HyperPipes:\t' + str(accuracy))
 
 classifier = GaussianNB()
 y_predicted = classifier.fit(X_train, y_train).predict(X_test)
 accuracy = accuracy_score(y_test, y_predicted)
-print 'GaussianNB:\t' + str(accuracy)
+print('GaussianNB:\t' + str(accuracy))
