@@ -1,0 +1,10 @@
+C:\Repos\clustered-hyper-pipes\datasets\processor\bin\Debug\netcoreapp2.0\processor.deps.json
+C:\Repos\clustered-hyper-pipes\datasets\processor\bin\Debug\netcoreapp2.0\processor.runtimeconfig.json
+C:\Repos\clustered-hyper-pipes\datasets\processor\bin\Debug\netcoreapp2.0\processor.runtimeconfig.dev.json
+C:\Repos\clustered-hyper-pipes\datasets\processor\bin\Debug\netcoreapp2.0\processor.dll
+C:\Repos\clustered-hyper-pipes\datasets\processor\bin\Debug\netcoreapp2.0\processor.pdb
+C:\Repos\clustered-hyper-pipes\datasets\processor\obj\Debug\netcoreapp2.0\processor.csproj.CoreCompileInputs.cache
+C:\Repos\clustered-hyper-pipes\datasets\processor\obj\Debug\netcoreapp2.0\processor.AssemblyInfoInputs.cache
+C:\Repos\clustered-hyper-pipes\datasets\processor\obj\Debug\netcoreapp2.0\processor.AssemblyInfo.cs
+C:\Repos\clustered-hyper-pipes\datasets\processor\obj\Debug\netcoreapp2.0\processor.dll
+C:\Repos\clustered-hyper-pipes\datasets\processor\obj\Debug\netcoreapp2.0\processor.pdb
