@@ -7,8 +7,7 @@ class ClassDecomposition:
         self.k = k
 
     def decompose(self, data_x, data_y):
-        self.y_unique_values, self.y_unique_indices = np.unique(
-            data_y, return_inverse=True)
+        self.y_unique_values, self.y_unique_indices = np.unique(data_y, return_inverse=True)
         self.n_y_unique = self.y_unique_values.shape[0]
 
         renamed_data_x = np.array([])
@@ -34,7 +33,7 @@ class ClassDecomposition:
 
         X = np.reshape(renamed_data_x, (data_x.shape[0], data_x.shape[1]))
         y = renamed_data_y
-        
+
         return X, y
 
     def relabel(self, data, cluster_idx):
