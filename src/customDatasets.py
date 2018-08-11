@@ -16,6 +16,10 @@ class custom_datasets():
         return self.load_custom_dataset('..\\datasets\\bupa.data')
 
     @classmethod
+    def load_anneal(self):
+        return self.load_custom_dataset('..\\datasets\\anneal.data')
+
+    @classmethod
     def load_custom_dataset(self, path):
         dir = os.path.dirname(__file__)
         file_name = os.path.join(dir, path)
